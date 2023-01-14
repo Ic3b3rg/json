@@ -1,0 +1,15 @@
+{
+"name": "Booblin Official",
+"description": "Just a matter of Boobs",
+"image": "ipfs://QmbejbueuuuhznVEoLdp3UEzzEy7xPT4dUKTwGVpS3E4qu",
+"dna": "b9a392c79c5d1e8ad2ef066c63e5358aeacfcf0d",
+"edition": 1,
+"date": 1672930988612,
+"attributes": [
+{
+"trait_type": "Booblin",
+"value": "Not Revealed"
+}
+],
+"compiler": "Booblin Official Engine"
+}
